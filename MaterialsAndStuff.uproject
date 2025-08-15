@@ -10,6 +10,11 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "CustomMobileController",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/Fab/product/ffb4d4db-c182-4817-9e82-a5603a5c529a"
 		}
 	]
 }
